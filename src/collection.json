@@ -4,6 +4,10 @@
     "hello-schematics": {
       "description": "A blank schematic.",
       "factory": "./hello-schematics/index#helloSchematics"
+    },
+    "goodbye-world": {
+      "description": "A blank schematic.",
+      "factory": "./goodbye-world/index#goodbyeWorld"
     }
   }
 }
